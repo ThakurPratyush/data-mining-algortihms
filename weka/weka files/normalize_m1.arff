@@ -1,0 +1,20 @@
+@relation datafile-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 numeric
+@attribute M2 numeric
+
+@data
+0,Anand,0.166667,56
+0.090909,Bharath,0.644444,87
+0.181818,Chandru,0.755556,21
+0.272727,Divya,0.044444,25
+0.363636,Ezhil,0.755556,99
+0.454545,Fathima,0.155556,23
+0.545455,Gayathri,0,87
+0.636364,Harsh,0.788889,98
+0.727273,Indra,0.022222,8
+0.818182,Janet,0.9,54
+0.909091,Keerthi,1,89
+1,Lavanya,0,80

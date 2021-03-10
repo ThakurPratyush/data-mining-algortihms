@@ -1,0 +1,13 @@
+@relation datafile-weka.filters.unsupervised.instance.RemoveRange-R5-12
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 numeric
+@attribute M2 numeric
+@attribute class {a,b,c,d}
+
+@data
+{0 121,1 Anand,2 23,3 56}
+{1 Bharath,3 87}
+{0 123,1 Chandru}
+{0 124,1 Raju,2 12,3 25}

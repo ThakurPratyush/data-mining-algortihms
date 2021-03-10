@@ -1,0 +1,21 @@
+@relation 'dataset-weka.filters.unsupervised.attribute.Add-Naverage-Clast-W1.0-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Nexpression-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Naverage-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.Add-Nunnamed-Clast-W1.0-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Discretize-B5-M-1.0-R3,4-precision6-weka.filters.unsupervised.attribute.PKIDiscretize-R3,4'
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 {'\'(-inf-26]\'','\'(26-44]\'','\'(44-62]\'','\'(62-80]\'','\'(80-inf)\''}
+@attribute M2 {'\'(-inf-26.2]\'','\'(26.2-44.4]\'','\'(44.4-62.6]\'','\'(62.6-80.8]\'','\'(80.8-inf)\''}
+@attribute average numeric
+
+@data
+121,Anand,'\'(-inf-26]\'','\'(44.4-62.6]\'',39.5
+122,Bharath,'\'(62-80]\'','\'(80.8-inf)\'',76.5
+123,Chandru,'\'(62-80]\'','\'(-inf-26.2]\'',48.5
+124,Divya,'\'(-inf-26]\'','\'(-inf-26.2]\'',18.5
+125,Ezhil,'\'(62-80]\'','\'(80.8-inf)\'',87.5
+126,Fathima,'\'(-inf-26]\'','\'(-inf-26.2]\'',22.5
+127,Gayathri,'\'(-inf-26]\'','\'(80.8-inf)\'',47.5
+128,Harsh,'\'(62-80]\'','\'(80.8-inf)\'',88.5
+129,Indra,'\'(-inf-26]\'','\'(-inf-26.2]\'',9
+130,Janet,'\'(80-inf)\'','\'(44.4-62.6]\'',71.5
+131,Keerthi,'\'(80-inf)\'','\'(80.8-inf)\'',93.5
+132,Lavanya,'\'(-inf-26]\'','\'(62.6-80.8]\'',44

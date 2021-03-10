@@ -1,0 +1,25 @@
+@relation datafile
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 numeric
+@attribute M2 numeric
+@attribute class {a,b,c,d}
+@data
+{0 121,1 Anand,2 23,3 56}
+{1 Bharath,3 87,4 a}
+{0 123,1 Chandru}
+{0 124,1,Raju,2 12,3 25}
+{0 125,4 c}
+{0 126,4 c}
+{0 127,1 Gayathri,2 8,3 87}
+{0 128,1 Harsh,4 d}
+{0 129,1 Indra,4 d}
+{0 130,2 89,3 54,4 a}
+{0 131,2 98,3 89,4 a}
+{0 132,4 a}
+
+
+
+
+

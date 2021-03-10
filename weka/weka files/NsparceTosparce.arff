@@ -1,0 +1,21 @@
+@relation datafile-weka.filters.unsupervised.instance.SparseToNonSparse
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 numeric
+@attribute M2 numeric
+@attribute class {a,b,c,d}
+
+@data
+121,Anand,23,56,a
+0,Bharath,0,87,a
+123,Chandru,0,0,a
+124,Raju,12,25,a
+125,Anand,0,0,c
+126,Anand,0,0,c
+127,Gayathri,8,87,a
+128,Harsh,0,0,d
+129,Indra,0,0,d
+130,Anand,89,54,a
+131,Anand,98,89,a
+132,Anand,0,0,a

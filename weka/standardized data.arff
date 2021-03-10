@@ -1,0 +1,21 @@
+@relation 'dataset-weka.filters.unsupervised.attribute.Add-Naverage-Clast-W1.0-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Nexpression-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Naverage-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.FirstOrder-R3-4-weka.filters.unsupervised.attribute.Add-TNOM-Nclass-Lbowler,batsman,fielder,allrounder-Clast-W1.0-weka.filters.unsupervised.attribute.MakeIndicator-C5-V1,2'
+
+@attribute ID numeric
+@attribute NAME string
+@attribute '\'FO M1\'' numeric
+@attribute average numeric
+@attribute class numeric
+
+@data
+121,Anand,33,39.5,1
+122,Bharath,21,76.5,1
+123,Chandru,-55,48.5,1
+124,Divya,13,18.5,1
+125,Ezhil,23,87.5,0
+126,Fathima,1,22.5,1
+127,Gayathri,79,47.5,1
+128,Harsh,19,88.5,0
+129,Indra,-2,9,0
+130,Janet,-35,71.5,1
+131,Keerthi,-9,93.5,1
+132,Lavanya,72,44,0

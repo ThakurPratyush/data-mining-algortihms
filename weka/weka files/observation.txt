@@ -1,0 +1,22 @@
+1 randomize : rearranges the entries in the dataset in random order
+
+
+2 removefolds: removes a particular set to be used as a validation dataset giving argument 3 as no of folds gives me 1 entry
+                number of folds would make sure that each fold of dataset is used turn by turn as validation dataset
+
+
+3 removepercentage : arg = 25 removes 3 of 12,  removes given percentage of entries from the dataset
+
+
+4 removerange : passed 5-12 list changed to only first 4 entries, from 5 to 12 were removed
+
+
+5 RemoveWithValues : 
+                     for numerical attribute :removes the entries values that are below a split point (ex for m1 passing split point as 12.0 removes all the values 
+                     which are less than 12)
+                     for nominal attribute  : my attributes are {a b c d}  I passed nominalattribute as 3-4 ,so it removed all the entries that have c,d in 
+
+                     nominal attribute
+                         
+6 resample : gives 75 (choosen by me ) percent of data as sample randomly selecting from 12 entries give 9 entries 
+        optional to choose noreplacement or replacement(can choose one entry more than once).

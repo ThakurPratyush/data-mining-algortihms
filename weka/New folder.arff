@@ -1,0 +1,21 @@
+@relation dataset-weka.filters.unsupervised.attribute.Add-Naverage-Clast-W1.0-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Nexpression-weka.filters.unsupervised.attribute.Remove-R5-weka.filters.unsupervised.attribute.AddExpression-E(a3+a4)/2-Naverage-weka.filters.unsupervised.attribute.Remove-R5
+
+@attribute ID numeric
+@attribute NAME string
+@attribute M1 numeric
+@attribute M2 numeric
+@attribute average numeric
+
+@data
+121,Anand,23,56,39.5
+122,Bharath,66,87,76.5
+123,Chandru,76,21,48.5
+124,Divya,12,25,18.5
+125,Ezhil,76,99,87.5
+126,Fathima,22,23,22.5
+127,Gayathri,8,87,47.5
+128,Harsh,79,98,88.5
+129,Indra,10,8,9
+130,Janet,89,54,71.5
+131,Keerthi,98,89,93.5
+132,Lavanya,8,80,44
